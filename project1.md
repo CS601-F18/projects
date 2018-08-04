@@ -1,6 +1,8 @@
 Project 1 - Amazon Review and Q&A Search
 ===========================================
 
+## Note, this project description is incomplete and will change!
+
 ### Due - 
 
 For this project, you will implement a program to allow searching of a database of Amazon reviews and Q&A content. You will practice using the following:

@@ -117,9 +117,9 @@ After cloning your github repository we will execute your program from the top-l
 | 5 | **Functionality** - `error conditions - search/find inputs ` |  
 | 10 | **Design** - `InvertedIndex` design |  
 | 5 | **Design** - Indexing implementation |  
-| 10 | **Design** - Program design -- class and method decomposition |  
+| 10 | **Design** - Solution is well designed and uses appropriate class and method decomposition. |  
 | 10 | **Design** - Sorting of search results |  
-| 5 | **Design** - Style |  
+| 5 | **Design** - Meets all style guidelines. |  
 
 
 Partial credit may be awarded for partial functionality and/or partially correct design or style elements.

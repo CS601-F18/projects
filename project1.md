@@ -108,7 +108,19 @@ After cloning your github repository we will execute your program from the top-l
 
 | Points | Criterion |
 | ------ | -------- |  
-| points | item |  
+| 10 | **Functionality** - `find` |  
+| 10 | **Functionality** - `reviewsearch ` |  
+| 10 | **Functionality** - `qasearch ` |  
+| 10 | **Functionality** - `reviewpartialsearch ` |  
+| 10 | **Functionality** - `qapartialsearch ` |  
+| 5 | **Functionality** - `error conditions - program execution ` |  
+| 5 | **Functionality** - `error conditions - search/find inputs ` |  
+| 10 | **Design** - `InvertedIndex` design |  
+| 5 | **Design** - Indexing implementation |  
+| 10 | **Design** - Program design -- class and method decomposition |  
+| 10 | **Design** - Sorting of search results |  
+| 5 | **Design** - Style |  
+
 
 Partial credit may be awarded for partial functionality and/or partially correct design or style elements.
 

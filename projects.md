@@ -36,8 +36,8 @@ Use your creativity! This is a test of not only your coding skills but your abil
 
 1. Use the following link to create your private github repository for this assignment: [Project S]()
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
-3. All code *and thorough documentation* must be submitted to your github repository by **Wednseday, December 12, 2018 - 5pm**.
-
+3. Your program must be demonstrated to the professor or a TA by **Wednseday, December 12, 2018 - 5pm**. Further instructions for making an interactive grading appointment for this project will be made available at a later date.
+4. All code *and thorough documentation* must be submitted to your github repository by **Wednseday, December 12, 2018 - 5pm**.
 
 ## Grading Rubric
 

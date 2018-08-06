@@ -28,7 +28,7 @@ You may choose to extend a previous project to add functionality you think is mi
 
 You may choose to use the opportunity to learn a new language or toolset, for example build and Android application or rewrite a project using Scala.
 
-You may choose to implement an application that would help make your life easier. A previous student implemented a web-based Todo list application and used it everyday to keep track of her upcoming tasks!
+You may choose to implement an application that would help make your life easier. A previous student implemented a web-based Todo list application and used it everyday to keep track of her upcoming tasks! One of my lab mates from graduate school built an online photo library and used it every day to post a photo of the sky over Santa Barbara. 
 
 Use your creativity! This is a test of not only your coding skills but your ability to define a problem on your own. Of course, I'm here to help! You may always come to office hour to discuss your ideas.
 

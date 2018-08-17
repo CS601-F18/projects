@@ -1,5 +1,5 @@
-Project S - Side Project
-===========================================
+Side Project
+============
 
 ### Due - Wednesday, December 12, 2018 - 5pm
 
@@ -16,7 +16,7 @@ Use this as an opportunity to explore something you are excited about!
 ## Requirements
 
 1. The project should represent roughly 50 hours of work. It is advised that you maintain a work log so that you can demonstrate how much time you spent on various elements of the project. It is also advised that you speak with the professor during office hour to propose your idea and verify that it is appropriately scoped.
-2. The project may *extend* another project from this or another class, but no portion of the assignment that you wish to have graded as Project S may be submitted as part of another assignment for this or another class.
+2. The project may *extend* another project from this or another class, but no portion of the assignment that you wish to have graded as Side Project may be submitted as part of another assignment for this or another class.
 3. You *may* choose to work in a programming language other than Java. You may also choose to use any set of libraries and/or frameworks available to you. Keep in mind, however, that your grade will be based on the level of difficulty of the project. Just completing some tutorials to learn a new toolset will not be sufficient (even if it took you 50 hours!).
 4. You must submit your entire code base, a README with instructions for executing your program, and a README that explains the goal of the project, the design of the system, and any implementation details. At the time of submission, you should have a well-documented github repository that you would be proud to send to a potential employer!
 
@@ -34,10 +34,10 @@ Use your creativity! This is a test of not only your coding skills but your abil
 
 ## Submission
 
-1. Use the following link to create your private github repository for this assignment: [Project S]()
+1. Use the following link to create your private github repository for this assignment: [Side Project](https://classroom.github.com/a/VZ5c4kDD)
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
-3. Your program must be demonstrated to the professor or a TA by **Wednseday, December 12, 2018 - 5pm**. Further instructions for making an interactive grading appointment for this project will be made available at a later date.
-4. All code *and thorough documentation* must be submitted to your github repository by **Wednseday, December 12, 2018 - 5pm**.
+3. Your program must be demonstrated to the professor or a TA by **Wednesday, December 12, 2018 - 5pm**. Further instructions for making an interactive grading appointment for this project will be made available at a later date.
+4. All code *and thorough documentation* must be submitted to your github repository by **Wednesday, December 12, 2018 - 5pm**.
 
 ## Grading Rubric
 

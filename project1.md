@@ -1,9 +1,7 @@
 Project 1 - Amazon Review and Q&A Search
 ===========================================
 
-## Note, this project description is incomplete and will change!
-
-### Due - TBD
+### Due - Wednesday, September 19, 2018 - 11am
 
 For this project, you will implement a program to allow searching of a database of Amazon reviews and Q&A content. You will practice using the following:
 
@@ -99,10 +97,13 @@ After cloning your github repository we will execute your program from the top-l
 ## Submission
 
 1. Use the following link to create your private github repository for this assignment: [Project 1]()
-2. For full credit, make sure to follow all [Style Guidelines](). Points will be deducted for each violation.
-3. All code and the jar file desribed above must be submitted to your github repository by ****.
+2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
+3. All code and the jar file described above must be submitted to your github repository by **Wednesday, September 19, 2018 - 11am**.
 4. There are no unit test cases provided for this project, but during interactive grading you will be expected to demonstrate your solution running on the Cell Phones and Accessories data. Make sure to test incorrect commands and searches for ASINs and terms that are not present in the data.
 
+## Extra Credit
+
+You may earn up to three (3) points of extra credit by completing interactive grading and submitting all required code during the professor's office hours on or before Tuesday, September 18, 2018. Note that office hours are first come, first served and students with assignment questions have priority over students wishing to complete early interactive grading. To earn the extra credit it is suggested you come for interactive grading well before the deadline!
 
 ## Grading Rubric
 

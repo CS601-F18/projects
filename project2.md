@@ -68,6 +68,7 @@ The `SynchronousOrderedDispatchBroker` has the following properties:
 - **Synchronous** - A newly published item will be *synchronously* delivered to all subscribers. The `publish` method will not return to the publisher until all subscribers have completed the `onEvent` method.
 - **Ordered** - The `Broker` guarantees that items from different publishers *may not interleave*. If a publisher is delivering to subscribers the next publisher must block until the first has finished.
 
+<hr/>
 
 #### `AsyncOrderedDispatchBroker`
 
@@ -82,6 +83,8 @@ The `AsyncOrderedDispatchBroker` has the following properties:
 - You may **not** use a `BlockingQueue` implementation from `java.util`, however you may extend and use the implementation presented in class. Consider adding a `poll` method.
 - Consider using one additional thread to deliver messages to subscribers in order.
 
+<hr/>
+
 #### `AsyncUnorderedDispatchBroker`
 
 The `AsyncUnorderedDispatchBroker ` has the following properties:
@@ -92,6 +95,8 @@ The `AsyncUnorderedDispatchBroker ` has the following properties:
 **Hints**
 
 - Consider using an instance of `ExecutorService` to asynchronously `execute` jobs to deliver items to subscribers. 
+
+<hr/>
 
 ### `Subscriber`
 

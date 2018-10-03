@@ -71,6 +71,7 @@ The `SynchronousOrderedDispatchBroker` has the following properties:
 - **Ordered** - The `Broker` guarantees that items from different publishers *may not interleave*. If a publisher is delivering to subscribers the next publisher must block until the first has finished.
 
 <hr/>
+
 #### `AsyncOrderedDispatchBroker`
 
 The `AsyncOrderedDispatchBroker` has the following properties:

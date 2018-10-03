@@ -1,9 +1,7 @@
 Project 3 - HTTP Server
 =======================================
 
-### Due - TBD
-
-#### This project description is incomplete and will change! Proceed at your own risk!
+### Due - Wednesday, November 7, 2018 - 11am
 
 For this project, you will implement an HTTP server, two web applications, and a full suite of tests. You will practice using the following:
 
@@ -93,8 +91,6 @@ You will return a web page listing all of the review and qa documents with the p
 
 For Part 3 of this assignment you will implement an application that will allow a user to anonymously post a message to the Slack team. Refer to the [Accessing the Slack API](slack.md) instructions for pointers. You will deploy this application on your [primary microcloud VM](https://github.com/CS601-F18/notes/blob/master/admin/mcassignments.md) on port **9090**.
 
-
-
 You will support the following two APIs:
 
 #### `GET /slackbot`
@@ -137,7 +133,7 @@ The only external libraries you may use for this assignment are [GSON](https://g
 
 1. Use the following link to create your private github repository for this assignment: [Project 3](). **Note**, the repository is completely empty so you will need to set it up as required by the assignment.
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
-3. All code and the jar file described above must be submitted to your github repository by ****.
+3. All code and the jar file described above must be submitted to your github repository by **Wednesday, November 7, 2018 - 11am.**.
 
 <!--## Extra Credit
 You may earn up to one (1) point of extra credit by completing interactive grading and submitting all required code during the professor's office hours on or before Friday, October 5, 2018. Note that office hours are first come, first served and students with assignment questions have priority over students wishing to complete early interactive grading. To earn the extra credit it is suggested you come for interactive grading well before the deadline!

@@ -1,7 +1,8 @@
 Project 2 - Publish/Subscribe Framework
 =======================================
 
-### Due - Monday, October 8, 2018 - 11am
+### <del>Due - Monday, October 8, 2018 - 11am</del>
+### Due - Wednesday, October 17, 2018 - 11am
 
 For this project, you will implement a message broker framework that will support [publish/subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) functionality. You will practice using the following:
 
@@ -182,7 +183,7 @@ To earn the final 5% on this assignment you will extend your part 1 implementati
 
 1. Use the following link to create your private github repository for this assignment: [Project 2](https://classroom.github.com/a/iL0YiNu2). **Note**, the repository is completely empty so you will need to set it up as required by the assignment.
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
-3. All code and the jar file described above must be submitted to your github repository by **Monday, October 8, 2018 - 11am**.
+3. All code and the jar file described above must be submitted to your github repository by <del>**Monday, October 8, 2018 - 11am**</del> **Wednesday, October 17, 2018 - 11am.**
 4. There are no unit test cases provided for this project, but during interactive grading you will be expected to demonstrate your solution running on at least two of the Amazon review datasets.
 
 ## Extra Credit

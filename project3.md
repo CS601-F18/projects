@@ -131,7 +131,7 @@ The only external libraries you may use for this assignment are [GSON](https://g
 
 ## Submission
 
-1. Use the following link to create your private github repository for this assignment: [Project 3](). **Note**, the repository is completely empty so you will need to set it up as required by the assignment.
+1. Use the following link to create your private github repository for this assignment: [Project 3](https://classroom.github.com/a/canR1sdY). **Note**, the repository is completely empty so you will need to set it up as required by the assignment.
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
 3. All code and the jar file described above must be submitted to your github repository by **Wednesday, November 7, 2018 - 11am.**.
 

@@ -1,10 +1,9 @@
 Project 4 Option 1 - Ticket Purchase Application
 ================================================
-# *This assignment is incomplete. Proceed at your own risk.*
 
-### Code and Deployment Due - During interactive grading appointment scheduled during (or before) finals week.
+#### Final Code and Deployment Due - During interactive grading appointment scheduled during (or before) finals week. Details will be posted on slack.
 
-### All students will be required to demonstrate their progress on or before the last day of class - December 5, 2018. Students who fail to demonstrate reasonable progress before this checkpoint will not receive credit for the Project Checkpoint criterion.
+#### Checkpoint Due - December 5, 2018 - All students will be required to demonstrate their progress on or before the last day of class - December 5, 2018. Students who fail to demonstrate reasonable progress before this checkpoint will not receive credit for the Project Checkpoint criterion.
 
 For this project you will implement a ticket purchase web application (i.e., your own EventBrite!). You will design and implement a two-tier web application with a Java (Jetty/Servlets) front end and an SQL backend. 
 
@@ -64,9 +63,9 @@ In addition, your project will be evaluated based on the following criteria for 
 
 ### Submission Requirements
 
-You will schedule an interactive grading appointment during finals week. Before your schedule appointment, submit all code to your github repository for this assignment **and** ensure your complete solution is be running on the microcloud. Your web front end must be deployed on your [primary node](https://github.com/CS601-F18/notes/blob/master/admin/mcassignments.md) port **7070**. Your services (all three components!) must be running *on different hosts*.
+You will schedule an interactive grading appointment during finals week. Before your scheduled appointment, submit all code to your github repository for this assignment **and** ensure your complete solution is be running on the microcloud. Your server must be deployed on your [primary node](https://github.com/CS601-F18/notes/blob/master/admin/mcassignments.md) port **7070**. 
 
-Use the following link to create your private github repository for this assignment: [Project 4]()
+Use the following link to create your private github repository for this assignment: [Project 4](https://classroom.github.com/a/TdnexnOy)
 
 For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F18/notes/blob/master/admin/style.md). Points will be deducted for each violation.
 

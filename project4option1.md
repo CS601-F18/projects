@@ -30,7 +30,7 @@ You may use additional database tables.
 
 ### Additional Features
 
-Select up to 25 points of additional features. *No* extra credit will be awarded for implementing additional features. If you want additional credit, consider [Option 2](project4option2.md).
+Select up to 15 points of additional features. *No* extra credit will be awarded for implementing additional features. If you want additional credit, consider [Option 2](project4option2.md).
 
 | Points   | Feature |  Description |
 | :-------: |:-------------:|  :-----|

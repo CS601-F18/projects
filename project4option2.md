@@ -140,7 +140,7 @@ Body:
 
 <pre>
 {
-	"username": "string",
+	"username": "string"
 }
 </pre>
 
@@ -151,7 +151,7 @@ Responses:
 	<tr><td>200</td><td>User created<br/>
 <pre>
 {
-	"userid": 0,
+	"userid": 0
 }	
 </pre></td></tr>
 	<tr><td>400</td><td>User could not be created</td></tr>
@@ -316,7 +316,7 @@ Body:
 
 <pre>
 {
-	"username": "string",
+	"username": "string"
 }
 </pre>
 
